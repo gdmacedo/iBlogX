@@ -14,7 +14,7 @@ O Desafio é mostrar o uso do Python com Django juntamento com o banco de dados 
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gdmacedo/DAO_Organiza-oAut-nomaDescentralizada/main/FullStack.jpg" alt="configurar o Docker com Django e PostgreSQL para seu ambiente de desenvolvimento em Python">
+  <img src="https://raw.githubusercontent.com/gdmacedo/iBlogX/refs/heads/main/iBlogX/iClynikaX/templates/img/Contate-Nos.jpg" alt="configurar o Docker com Django e PostgreSQL para seu ambiente de desenvolvimento em Python">
 </p>
 
 
