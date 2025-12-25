@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "iBlogX Database",
+      "Group": "Servers",
+      "Host": "psql",
+      "Port": 5432,
+      "MaintenanceDB": "iblogxdb",
+      "Username": "postgres",
+      "SSLMode": "prefer"
+    }
+  }
+}
